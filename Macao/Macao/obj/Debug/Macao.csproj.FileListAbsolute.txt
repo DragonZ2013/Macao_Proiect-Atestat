@@ -1,0 +1,14 @@
+D:\ProjectsVS\Macao\Macao\bin\Debug\Macao.exe.config
+D:\ProjectsVS\Macao\Macao\bin\Debug\Macao.exe
+D:\ProjectsVS\Macao\Macao\bin\Debug\Macao.pdb
+D:\ProjectsVS\Macao\Macao\obj\Debug\Macao.csprojAssemblyReference.cache
+D:\ProjectsVS\Macao\Macao\obj\Debug\Macao.Form1.resources
+D:\ProjectsVS\Macao\Macao\obj\Debug\Macao.Properties.Resources.resources
+D:\ProjectsVS\Macao\Macao\obj\Debug\Macao.csproj.GenerateResource.cache
+D:\ProjectsVS\Macao\Macao\obj\Debug\Macao.exe
+D:\ProjectsVS\Macao\Macao\obj\Debug\Macao.pdb
+D:\ProjectsVS\Macao\Macao\obj\Debug\Macao.Form2.resources
+D:\ProjectsVS\Macao\Macao\bin\Debug\firma.mdf
+D:\ProjectsVS\Macao\Macao\bin\Debug\firma_log.ldf
+D:\ProjectsVS\Macao\Macao\obj\Debug\Macao.Form3.resources
+D:\ProjectsVS\Macao\Macao\obj\Debug\Macao.csproj.CoreCompileInputs.cache
