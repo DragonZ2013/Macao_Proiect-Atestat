@@ -44,8 +44,8 @@ namespace Macao
             {
                 deck[i] = new Card((i % 13)+1, i / 13);
             }
-            deck[52] = new Card(0, 5);
-            deck[53] = new Card(0, 5);
+            deck[52] = new Card(0, 4);
+            deck[53] = new Card(0, 4);
             var rand = new Random();
             ///shuffle
             for (int i=0;i<=52;i++)
